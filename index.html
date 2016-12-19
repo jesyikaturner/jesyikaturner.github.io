@@ -9,6 +9,18 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     
+    <style>
+      .btn-group-justified > .btn-group {
+	      float: none;
+	      display: table-cell;
+	      width: 1%;
+      }
+      .btn-group-justified > .btn-group > .dropdown-menu {
+	      width: 100%;
+      }
+    </style>
+    
+    
   </head>
 <body>
   <div class="container">
@@ -19,10 +31,10 @@
     </div>
     <div class="row">
       <div class="col-md-12">
-        <div class="btn-group-justified">
+        <div class="btn-group btn-group-justified">
           
           <div class="btn-group">
-            <a href="#" class="btn btn-primary" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" role="button">Art Portfolio</a>
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Art Portfolio</button>
               <ul class="dropdown-menu">
                 <li><a href="http://jesyikaturner.com/tagged/traditional">Traditional Art</a></li>
                 <li><a href="#">Digital Art</a></li>
@@ -39,7 +51,7 @@
               </ul>
             </div>
           
-          <a href="*" class="btn btn-default" role="button">About</a>
+          <a href="#" class="btn btn-default" role="button">About</a>
         </div>
       </div>
     </div>
