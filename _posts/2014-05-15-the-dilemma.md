@@ -2,7 +2,8 @@
 title: The Dilemma
 date: 2014-05-15 00:00:00
 description: 
-featured_image: ''
+featured_image: '/images/demo/demo-square.jpg'
+tags: 'game design, blog post'
 ---
 
 ## The Dilemma

@@ -2,10 +2,9 @@
 title: "Formal Properties of a Video Game - Silent Hill 2"
 date: 2012-04-19 00:00:00
 description: 
-featured_image: ''
+featured_image: '/images/demo/demo-square.jpg'
+tags: 'game design, essay'
 ---
-
-## Formal Properties of a Video Game - Silent Hill 2
 
 *One of the first essays I had to do for my Game Design course. I think I got a fairly good mark with decent comments. I’m pretty sure one of the criticisms for this was that it read more like a review at the beginning rather than an exploration of the game’s mechanics.*
 

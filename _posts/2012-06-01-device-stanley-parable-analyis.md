@@ -2,12 +2,13 @@
 title: "Device6 and The Stanley Parable Analysis"
 date: 2012-06-01 00:00:00
 description: 
-featured_image: ''
+featured_image: '/images/demo/demo-square.jpg'
+tags: 'game design, essay'
 ---
 
 ## Device6 and The Stanley Parable Analysis
 
-*A SWOT analysis of Device6 and The Stanley Parable Bachelor of Design (Games) degree*
+*A SWOT analysis of Device6 and The Stanley Parable Bachelor of Design (Games) degree:*
 
 Device6 is an interactive novel on iOS devices. It won Excellence in Audio, and was a finalist for Excellence in Narrative, Excellence in Visual Arts, and Seumas McNally Grand Prize. It was also an honourable mention for the Excellence in Design and Nuovo Award. The player plays as Anne who is suffering from amnesia. Anne wakes up on an island brimming with 60s aesthetics accompanied by an atmospheric jazz score. The player has to find out the truth behind Anne’s amnesia, the island and the reason for everything through and thrilling and interesting narrative.
 

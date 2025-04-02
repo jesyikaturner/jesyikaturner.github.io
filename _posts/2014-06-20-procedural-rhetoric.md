@@ -2,20 +2,19 @@
 title: 'What is Procedural Rhetoric and are the criticisms made against it by Miguel Sicart valid'
 date: 2014-06-20 00:00:00
 description: 
-featured_image: ''
+featured_image: '/images/blog/procedural-rhetoric-square.jpg'
+tags: 'game design, essay'
 ---
-
-## “What is Procedural Rhetoric and are the criticisms made against it by Miguel Sicart valid?” Essay
 
 *This essay was for my Games Studies course for my Bachelor of Design (Games)*
 
 According to Sicart, as written in his piece “Against Procedurality”:
 
-> "Proceduralism often disregards the importance of play and players as activities that have creative, performative properties. In this sense, the meaning of a game, of any game, lies in its rules…In the proceduralist tradition, play is not central to understanding the meanings created by (playing) games, since it is the rules that create those meanings." (Against Procedurality, 2011, para. 23)
+"Proceduralism often disregards the importance of play and players as activities that have creative, performative properties. In this sense, the meaning of a game, of any game, lies in its rules…In the proceduralist tradition, play is not central to understanding the meanings created by (playing) games, since it is the rules that create those meanings." (Against Procedurality, 2011, para. 23)
 
 and that:
 
-> "In essence, procedural rhetoric argues that it is in the formal properties of the rules where the meaning of a game can be found. And what players do is actively complete the meaning suggested and guided by the rules. For proceduralists, which are after all a class of formalists, the game is the rules, both in terms of its ontological definition (the what in what is a game), and in its function as an object that creates meaning in the contexts in which specific users use it." (Against Procedurality, 2011, para. 22)
+"In essence, procedural rhetoric argues that it is in the formal properties of the rules where the meaning of a game can be found. And what players do is actively complete the meaning suggested and guided by the rules. For proceduralists, which are after all a class of formalists, the game is the rules, both in terms of its ontological definition (the what in what is a game), and in its function as an object that creates meaning in the contexts in which specific users use it." (Against Procedurality, 2011, para. 22)
 
 This essay will first properly define Procedural Rhetoric and how it is related to Proceduralism in order to bring a groundwork understanding to what it is the Sicart is criticising. Sicart’s views will be laid out in a manner in which they will be taken apart, looked at and considered on whether these criticisms are actually valid complaints. First will be Sicart’s interpretation of procedural rhetoric and whether his criticism against his interpretation is valid to apply to what Bogost really meant. Sicart claims that procedural rhetoric ignores the player yet Bogost outlines a concept called procedural enthymeme which acknowledges the relationship between player and procedure. Sicart claims that Bogost focuses too much on the formal characteristics of the game, and not enough on other other important components such as aesthetics, narrative, and so on. Sicart’s interpretation of procedural rhetoric against his own idea of abusive game design which when looked into are pretty much the same thing and how Sicart believes that procedurality leads to the embedding of agendas and views into the games which are then forced onto the unsuspecting players.
 
@@ -39,11 +38,12 @@ Proceduralism is the exploration of arguments embedded in the rules of games and
 He has a problem with the designers controlling the way a player perceives play and forces them to think through the designer’s perspective. Bogost’s concept of the “procedural enthymeme,” as found in Persuasive Games, it acknowledges the dynamic relationship between player and the procedure. The enthymeme is a technique in which something is left out and the listener (in the case of oratory) or a player is expected to fill in this missing something and complete the conclusion or arguments that the game is trying to convey. Miguel Sicart’s issue with the designer forcing their views onto the players is weird when he and Douglas Wilson, in their piece “Now It’s Personal: On Abusive Game Design’”, introduce a concept called Abusive Game Design. icart and Wilson define it as a way of forcing the player to forgo their expectations of the game and play for an experience in which the focus of understanding the systems of play, is on understanding the designer’s intent. Abusive Game Design seems to be Procedural Rhetoric with a different name which implies that Sicart does agree with the core concept of procedural rhetoric but rather disagrees with his own interpretation of what Procedural Rhetoric actually is.It can be then concluded that many of Sicart’s criticisms stem from misinterpreting what Bogost was intending and reading into motives that are not present in the concepts present, as, it is apparent that Sicart does in some way agree with Procedural Rhetoric and as such the way he has portrayed it in his piece is incorrect.
 
 ### Bibliography
+
 - Bogost, Ian, ‘Persuasive Games’, The MIT Press, 2007.
 - Bogost, Ian, ‘Procedural Rhetoric’, in Persuasive Games, The MIT Press, 2007.
-- Sicart, Miguel, ‘Against Procedurality’, Games Studies [online journal], 11/3 (2011) <http://gamestudies.org/1103/articles/sicart_ap>, accessed Sep. 2014.
-- Sicart, Miguel and Wilson, Douglas, ‘Now It’s Personal: On Abusive Game Design’, Doougle <http://doougle.net/articles/Abusive_Game_Design.pdf>, accessed Sep. 2014.
-- Ferri, Gabriele, ‘Interpretive Cooperation and Procedurality. A Dialogue between Semiotics and Procedural Criticism’, E|C [online journal], 3/5, (2009), pp 15-20 <http://www.ec-aiss.it/monografici/5_computer_games/1_ferri.pdf>, accessed Sep. 2014.
-- Compagno, Dario and Cappock, Patrick, ‘Introduction’ to the Semiotics of Computer Games, E|C [online journal], 3/5 (2009), pp 5-11 <http://www.ec-aiss.it/monografici/5_computer_games/0_introduction.pdf>, accessed Sep. 2014
-- Hawreliak, Jason, ‘In Defense of Procedurality’ Procedural Rhetoric, Civilization, and “You Didn’t Build That!”, First Person Scholar [online journal], (2012) <http://www.firstpersonscholar.com/procedural-rhetoric-civ3/>, accessed Sep. 2014
-- Nelson, Mark J., “Sicart’s ‘Against Procedurality’ A reply”, KMJN [online journal], (2012),<http://www.kmjn.org/notes/sicart_against_proceduralism.html>,  accessed Sep. 2014
+- Sicart, Miguel, ‘Against Procedurality’, Games Studies [online journal], 11/3 (2011) http://gamestudies.org/1103/articles/sicart_ap, accessed Sep. 2014.
+- Sicart, Miguel and Wilson, Douglas, ‘Now It’s Personal: On Abusive Game Design’, Doougle http://doougle.net/articles/Abusive_Game_Design.pdf, accessed Sep. 2014.
+- Ferri, Gabriele, ‘Interpretive Cooperation and Procedurality. A Dialogue between Semiotics and Procedural Criticism’, "E|C" [online journal], 3/5, (2009), pp 15-20 http://www.ec-aiss.it/monografici/5_computer_games/1_ferri.pdf, accessed Sep. 2014.
+- Compagno, Dario and Cappock, Patrick, ‘Introduction’ to the Semiotics of Computer Games, "E|C" [online journal], 3/5 (2009), pp 5-11 http://www.ec-aiss.it/monografici/5_computer_games/0_introduction.pdf, accessed Sep. 2014
+- Hawreliak, Jason, ‘In Defense of Procedurality’ Procedural Rhetoric, Civilization, and “You Didn’t Build That!”, First Person Scholar [online journal], (2012) http://www.firstpersonscholar.com/procedural-rhetoric-civ3/, accessed Sep. 2014
+- Nelson, Mark J., “Sicart’s ‘Against Procedurality’ A reply”, KMJN [online journal], (2012),http://www.kmjn.org/notes/sicart_against_proceduralism.html,  accessed Sep. 2014
