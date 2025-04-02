@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Jessica Turner
+  site_tagline: Full-Stack Engineer | Indie Dev | Pixel Artist
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -30,7 +30,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ""
-  twitter_url: ""
+  twitter_url: "https://bsky.app/profile/jesyika.bsky.social"
   instagram_url: ""
   snapchat_url: ""
   youtube_url: ""

@@ -1,39 +1,35 @@
-site: Index Jekyll Theme
+site: Jessica Turner
 
-url: https://index.jekyllthemes.io
-baseurl: 
+url: https://jesyikaturner.github.io
+baseurl:
 
 collections:
   pages:
-    output: true
+    output: false
     permalink: /:name
   posts:
     output: true
     permalink: /blog/:slug
   projects:
-    output: true
+    output: false
     permalink: /project/:slug
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
+  - scope:
       path: ""
       type: "projects"
     values:
@@ -44,7 +40,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
@@ -54,4 +50,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-  
