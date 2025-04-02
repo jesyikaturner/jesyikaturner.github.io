@@ -3,7 +3,7 @@ title: "Device6 and The Stanley Parable Analysis"
 date: 2012-06-01 00:00:00
 description: 
 featured_image: '/images/demo/demo-square.jpg'
-tags: 'game design, essay'
+tags: ['game design','essay']
 ---
 
 ## Device6 and The Stanley Parable Analysis

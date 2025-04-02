@@ -3,10 +3,12 @@ title: "Formal Properties of a Video Game - Silent Hill 2"
 date: 2012-04-19 00:00:00
 description: 
 featured_image: '/images/demo/demo-square.jpg'
-tags: 'game design, essay'
+tags: ['game design','essay']
 ---
 
 *One of the first essays I had to do for my Game Design course. I think I got a fairly good mark with decent comments. I’m pretty sure one of the criticisms for this was that it read more like a review at the beginning rather than an exploration of the game’s mechanics.*
+
+Formal Properties of a Video Game - Silent Hill 2
 
 Silent Hill 2 is a survival horror game which is the second instalment in the Silent Hill series, it was developed by a group called Team Silent within Konami Computer Entertainment Tokyo.  It was released in September 2001. As stated in the article “the Heresy of Zone Defense”, in basketball, “there must be a ball, and it should be large” (p. 4). That is one of defining principles in basketball. Basketball like Silent Hill 2 is made up of principles. The Silent Hill genre is defined by principles such as avoiding combat when needed, the radio to show the player when monsters are nearby and the lack of a heads-up-display. This leads to an immersive, terrifying experience.
 
