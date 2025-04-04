@@ -12,7 +12,7 @@ Due to a recent loss, a lonely child ventures through a bright yet melancholic n
 
 Developed in Unity3D, using C# during my Bachelor of Design (Games) degree. Presented at ACMI as one of my final year games.
 
-<iframe src="https://youtu.be/U2-4xQeyYJc" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U2-4xQeyYJc?si=SR69vXEkK4zECz3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 #### Team Intertwined
