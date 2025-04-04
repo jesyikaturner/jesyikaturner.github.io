@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Jessica Turner
-  site_tagline: Full-Stack Engineer | Indie Dev | Pixel Artist
+  site_tagline: Web Dev | Indie Dev | Pixel Artist
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -11,12 +11,14 @@ menu_settings:
   menu_items:
     - title: "Projects"
       url: "/"
+    - title: "Portfolio"
+      url: "/portfolio"
     - title: "Blog"
       url: "/blog/"
-    - title: "About"
-      url: "/about"
-    - title: "Contact"
-      url: "/contact"
+    # - title: "About"
+    #   url: "/about"
+    # - title: "Contact"
+    #   url: "/contact"
 
 grid_settings:
   overlay_opacity: 0.8

@@ -5,13 +5,13 @@ baseurl:
 
 collections:
   pages:
-    output: false
+    output: true
     permalink: /:name
   posts:
     output: true
     permalink: /blog/:slug
   projects:
-    output: false
+    output: true
     permalink: /project/:slug
 
 defaults:
