@@ -3,7 +3,7 @@ title: 'The Rise of Robot Friendship: Navigating the Ethical Implications of Cha
 date: 2018-09-30 00:00:00
 description: 
 featured_image: '/images/blog/rise-of-robot-friendships-square.jpg'
-tags: ['']
+tags: ['ethics', 'chatbots', 'ai', 'privacy concerns', 'emotional support', 'digital memories']
 ---
 
 The digital world is evolving, and with it, our understanding of friendship and loss. Imagine a world where your loved ones never truly leave; where their essence, captured through messages and social media posts, lives on in a chatbot. This intriguing yet complex realm of Artificial Intelligence (AI) prompts us to explore the ethical landscape of such technological advancements.
