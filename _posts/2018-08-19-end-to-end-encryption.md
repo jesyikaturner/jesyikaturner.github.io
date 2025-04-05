@@ -1,6 +1,6 @@
 ---
-title: "Why End-To-End Encryption is Essential for Messaging Apps"
-date: 2025-03-02 00:00:00
+title: 'Why End-To-End Encryption is Essential for Messaging Apps'
+date: 2018-08-19 00:00:00
 description: 
 featured_image: '/images/blog/end-to-end-encryption-square.jpg'
 tags: ['messaging apps', 'end-to-end encryption', 'cybersecurity', 'online privacy']

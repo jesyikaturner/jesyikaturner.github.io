@@ -1,6 +1,6 @@
 ---
-title: The Moral Dilemma of Left 4 Dead 2 - A Gamer’s Perspective
-date: 2025-01-20 00:00:00
+title: 'The Moral Dilemma of Left 4 Dead 2: A Gamer’s Perspective'
+date: 2014-04-20 00:00:00
 description: 
 featured_image: '/images/blog/the-dilemma-square.jpg'
 tags: ['game design','moral dilemmas', 'left 4 dead 2', 'player behaviour', 'human nature']
@@ -8,9 +8,7 @@ tags: ['game design','moral dilemmas', 'left 4 dead 2', 'player behaviour', 'hum
 
 *“Help us! Come out and help!” I hear my teammates scream. One is already dead, another is being ravaged by a hunter while the other is strung up by a smoker. If I left now it would mean game over.*
 
-In the intense world of Left 4 Dead 2, players are thrust into a battle for survival against hordes of zombies. However, the game presents a unique challenge beyond the undead threat: the moral dilemmas faced by players themselves. This blog post explores the complex decisions players must make and the psychological factors that influence their choices.
-
-#### The Game’s Setup
+In the intense world of Left 4 Dead 2, players are thrust into a battle for survival against hordes of zombies. However, the game presents a unique challenge beyond the undead threat: the moral dilemmas faced by players themselves.
 
 Left 4 Dead 2 is a cooperative game where players must work together to survive against zombies. The game emphasises teamwork, but it also introduces a twist: other players can become enemies. This dynamic adds a layer of complexity, as players must navigate not only the zombie threat but also the potential betrayal of their teammates.
 

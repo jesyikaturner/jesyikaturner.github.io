@@ -1,6 +1,6 @@
 ---
 title: 'Exploring the Debate: Procedural Rhetoric vs. Abusive Game Design'
-date: 2025-02-15 00:00:00
+date: 2014-06-15 00:00:00
 description: 
 featured_image: '/images/blog/procedural-rhetoric-square.jpg'
 tags: ['game design','procedural rhetoric', 'abusive game design', 'criticism', 'exploration']
