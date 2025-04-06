@@ -12,16 +12,20 @@ Due to a recent loss, a lonely child ventures through a bright yet melancholic n
 
 Developed in Unity3D, using C# during my Bachelor of Design (Games) degree. Presented at ACMI as one of my final year games.
 
+#### Gameplay
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U2-4xQeyYJc?si=SR69vXEkK4zECz3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-#### Team Intertwined
+#### The Team
 
-- Monica Dunne - Character Modeller + Asset Animator + Level Designer
-- Jessica Turner (me) - Programmer + Puzzle Designer + Level Designer
-- Pritika Sachdev - Environment Modeller + Texture Artist + Level Designer
-- Lale Yuksel - Digital Artist + Texture Artist + 2D Animator
-- Thomas Callahan - Programmer + Sound Designer
+| Team Intertwined |     |
+|------------------|-----|
+| Monica Dunne | Character Modeller/ Asset Animator/ Level Designer |
+| Jessica Turner |  Programmer/ Puzzle Designer/ Level Designer |
+| Pritika Sachdev | Environment Modeller/ Texture Artist/ Level Designer |
+| Lale Yuksel | Digital Artist/ Texture Artist/ 2D Animator |
+| Thomas Callahan | Programmer/ Sound Designer |
 
 
 #### Credits
